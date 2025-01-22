@@ -34,7 +34,7 @@ cp "$CSS_SRC" "$CODE_SRC/style" || { echo "Erreur lors de la copie de $CSS_SRC";
 
 cp "$INTRO_SRC" "$CODE_SRC/components" || { echo "Erreur lors de la copie de $INTRO_SRC"; exit 1; }
 
-cp "$CONFIG_SRC" "$CODE_SRC" || { echo "Erreur lors de la copie de $CONFIG_SRC"; exit 1; }
+cp "$CONFIG_SRC" "$TARGET_DIR" || { echo "Erreur lors de la copie de $CONFIG_SRC"; exit 1; }
 
 
 echo "Fichiers copiés avec succès."
