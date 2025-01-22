@@ -1,0 +1,5 @@
+nom;groupe;type;description
+publications;0;cards; Toutes les dernières publications du laboratoire.
+événements;1;cards; Les événements passés et à venir.
+membres;1;longcards; Les membres du laboratoire.
+contact;2;cards; Nous contacter au labo@sorbonne-universite.fr ou au XX XX XX XX XX.
