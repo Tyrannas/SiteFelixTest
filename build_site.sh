@@ -8,12 +8,12 @@ git clone "$REPO_URL" "$TARGET_DIR" || { echo "Erreur lors du clonage du reposit
 
 # Chemins des sources et destinations
 DATA_SRC="./data"
-RESSOURCES = "./scripts/resources"
-BANIER_SRC="$RESOURCES/baniere.jpg"
-ICON_SRC = "$RESOURCES/icon.svg"
-CSS_SRC="$RESOURCES/custom.css"
-INTRO_SRC="$RESOURCES/introduction.jsx"
-CONFIG_SRC = "$RESOURCES/siteConfig.json"
+RESSOURCES="./scripts/resources"
+BANIER_SRC="$RESSOURCES/baniere.jpg"
+ICON_SRC="$RESSOURCES/icon.svg"
+CSS_SRC="$RESSOURCES/custom.css"
+INTRO_SRC="$RESSOURCES/introduction.jsx"
+CONFIG_SRC="$RESSOURCES/siteConfig.json"
 
 CODE_SRC="$TARGET_DIR/src"
 
