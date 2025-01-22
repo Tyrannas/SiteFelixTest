@@ -10,6 +10,7 @@ git clone "$REPO_URL" "$TARGET_DIR" || { echo "Erreur lors du clonage du reposit
 DATA_SRC="./data"
 BANIER_SRC="./scripts/resources/baniere.jpg"
 CSS_SRC="./scripts/resources/custom.css"
+INTRO_SRC="./scripts/resources/introduction.jsx"
 
 CODE_SRC="$TARGET_DIR/src"
 
@@ -26,5 +27,7 @@ cp "$BANIER_SRC" "$CODE_SRC/images" || { echo "Erreur lors de la copie de $BANIE
 
 # Copier custom.css dans code/src/style
 cp "$CSS_SRC" "$CODE_SRC/style" || { echo "Erreur lors de la copie de $CSS_SRC"; exit 1; }
+
+cp "$INTRO_SRC" "$CODE_SRC/components" || { echo "Erreur lors de la copie de $INTRO_SRC"; exit 1; }
 
 echo "Fichiers copiés avec succès."

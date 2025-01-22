@@ -38,7 +38,7 @@ def generate_markdown_page_event(event_dict: dict, main_header: str, author_head
     event_dict.pop(photo_header)
     for key, val in event_dict.items():
         if val != "":
-            md_page += f"# {key}\n\n {val}\n\n"
+            md_page += f"## {key}\n\n {val}\n\n"
     return md_page
 
 
@@ -51,7 +51,7 @@ def generate_markdown_page_member(member_dict: dict, main_header: str, position_
     member_dict.pop(photo_header)
     for key, val in member_dict.items():
         if val != "":
-            md_page += f"# {key}\n\n {val}\n\n"
+            md_page += f"## {key}\n\n {val}\n\n"
     return md_page
 
 
