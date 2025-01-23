@@ -8,12 +8,12 @@ git clone "$REPO_URL" "$TARGET_DIR" || { echo "Erreur lors du clonage du reposit
 
 # Chemins des sources et destinations
 DATA_SRC="./data"
-RESSOURCES = "$RESOURCES"
-BANIER_SRC="$RESOURCES/baniere.jpg"
-ICON_SRC = "$RESOURCES/icon.svg"
-CSS_SRC="$RESOURCES/custom.css"
-INTRO_SRC="$RESOURCES/introduction.jsx"
-CONFIG_SRC = "$RESOURCES/siteConfig.json"
+RESSOURCES="./scripts/resources"
+BANIER_SRC="$RESSOURCES/baniere.jpg"
+ICON_SRC="$RESSOURCES/icon.svg"
+CSS_SRC="$RESSOURCES/custom.css"
+INTRO_SRC="$RESSOURCES/introduction.jsx"
+CONFIG_SRC="$RESSOURCES/siteConfig.json"
 
 CODE_SRC="$TARGET_DIR/src"
 
@@ -34,7 +34,7 @@ cp "$CSS_SRC" "$CODE_SRC/style" || { echo "Erreur lors de la copie de $CSS_SRC";
 
 cp "$INTRO_SRC" "$CODE_SRC/components" || { echo "Erreur lors de la copie de $INTRO_SRC"; exit 1; }
 
-cp "$CONFIG_SRC" "$CODE_SRC" || { echo "Erreur lors de la copie de $CONFIG_SRC"; exit 1; }
+cp "$CONFIG_SRC" "$TARGET_DIR" || { echo "Erreur lors de la copie de $CONFIG_SRC"; exit 1; }
 
 
 echo "Fichiers copiés avec succès."
