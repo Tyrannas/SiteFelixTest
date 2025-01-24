@@ -19,6 +19,6 @@
 }
 
 #landing-logo{
-    max-height:200px;
-    top: 0;
+    max-height:200px !important;
+    top: 0 !important;
 }
