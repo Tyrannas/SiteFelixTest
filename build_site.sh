@@ -45,4 +45,5 @@ fi
 echo "Copie du contenu de $DATA_SRC vers $CODE_SRC/data..."
 cp -r "$DATA_SRC"/* "$CODE_SRC/data" || { echo "Erreur lors de la copie de $DATA_SRC"; exit 1; }
 
+ls $CODE_SRC/style
 echo "Fichiers copiés avec succès."
