@@ -15,5 +15,5 @@
 }
 
 .landing-block{
-    max-width: 33rem;
+    max-width: 33rem !important;
 }
