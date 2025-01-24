@@ -23,23 +23,30 @@ if [[ -f "$TO_REPLACE_FILE" ]]; then
   echo "Lecture du fichier to_replace et copie des fichiers..."
   
   while IFS=" " read -r SRC RELATIVE_DEST; do
-    if [[ -n "$SRC" && -n "$RELATIVE_DEST" ]]; then
-      SRC_PATH="$RESSOURCES/$SRC"
-      DEST_PATH="$TARGET_DIR$RELATIVE_DEST"
-      
-      if [[ "$RELATIVE_DEST" == "/" ]]; then
-        DEST_PATH="$TARGET_DIR" # Place le fichier dans TARGET_DIR
-      else
-        DEST_PATH="$TARGET_DIR$RELATIVE_DEST"
-      fi
+    # Ignorer les lignes vides ou mal formatées
+    if [[ -z "$SRC" || -z "$RELATIVE_DEST" ]]; then
+      echo "Ligne vide ou mal formatée dans to_replace : '$SRC $RELATIVE_DEST'"
+      continue
+    fi
 
-      # Copier le fichier
-      if [[ -f "$SRC_PATH" ]]; then
-        cp "$SRC_PATH" "$DEST_PATH" || { echo "Erreur lors de la copie de $SRC_PATH"; exit 1; }
-        echo "Copié $SRC_PATH vers $DEST_PATH"
-      else
-        echo "Fichier source $SRC_PATH introuvable, copie ignorée."
-      fi
+    SRC_PATH="$RESSOURCES/$SRC"
+    
+    # Ajuster la destination pour la racine du projet
+    if [[ "$RELATIVE_DEST" == "/" ]]; then
+      DEST_PATH="$TARGET_DIR/${SRC##*/}" # Place le fichier dans TARGET_DIR
+    else
+      DEST_PATH="$TARGET_DIR$RELATIVE_DEST"
+    fi
+
+    # Créer le dossier de destination s'il n'existe pas
+    mkdir -p "$(dirname "$DEST_PATH")"
+    
+    # Copier le fichier
+    if [[ -f "$SRC_PATH" ]]; then
+      cp "$SRC_PATH" "$DEST_PATH" || { echo "Erreur lors de la copie de $SRC_PATH"; exit 1; }
+      echo "Copié $SRC_PATH vers $DEST_PATH"
+    else
+      echo "Fichier source $SRC_PATH introuvable, copie ignorée."
     fi
   done < "$TO_REPLACE_FILE"
 else
