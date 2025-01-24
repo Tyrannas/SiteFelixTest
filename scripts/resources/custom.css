@@ -13,3 +13,7 @@
 #article-header h1{
     color: white
 }
+
+.landing-block{
+    max-width: 33rem;
+}
