@@ -68,7 +68,10 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
             member_subdir: Path = MEMBER_DIR / ("_".join(member_name.split())).lower()
 
             member_subdir.mkdir(parents=True, exist_ok=True)
-            shutil.copy('./resources/avatar.webp', str(member_subdir / 'avatar.webp'))
+            if row[photo_header] != '' and os.path.exists('./inputs/photos/' + row[photo_header]):
+                shutil.copy('./inputs/photos/' + row[photo_header], str(member_subdir / row[photo_header]))
+            else:
+                shutil.copy('./resources/avatar.webp', str(member_subdir / 'avatar.webp'))
             with (member_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
                 md_file.write(generate_markdown_page_member(member_dict=row,
                                                             main_header=main_header, position_header=position_header, photo_header=photo_header))
