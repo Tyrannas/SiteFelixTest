@@ -27,6 +27,12 @@ if [[ -f "$TO_REPLACE_FILE" ]]; then
       SRC_PATH="$RESSOURCES/$SRC"
       DEST_PATH="$TARGET_DIR$RELATIVE_DEST"
       
+      if [[ "$RELATIVE_DEST" == "/" ]]; then
+        DEST_PATH="$TARGET_DIR" # Place le fichier dans TARGET_DIR
+      else
+        DEST_PATH="$TARGET_DIR$RELATIVE_DEST"
+      fi
+
       # Copier le fichier
       if [[ -f "$SRC_PATH" ]]; then
         cp "$SRC_PATH" "$DEST_PATH" || { echo "Erreur lors de la copie de $SRC_PATH"; exit 1; }
