@@ -1,6 +1,6 @@
-baniere.jpg /src/images
-custom.css /src/style
-customisation.jsx /src/components
-icon.svg /src/images
-LogoLabo.png /src/images
-siteConfig.json /
+baniere.jpg code/src/images
+custom.css code/src/style
+customisation.jsx code/src/components
+icon.svg code/src/images
+LogoLabo.png code/src/images
+siteConfig.json code

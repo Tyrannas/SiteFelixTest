@@ -11,33 +11,25 @@ git clone "$REPO_URL" "$TARGET_DIR" || { echo "Erreur lors du clonage du reposit
 # Chemins des sources
 DATA_SRC="./data"
 RESSOURCES="./scripts/resources"
-CODE_SRC="$TARGET_DIR/src"
 
 # Créer les dossiers nécessaires
-mkdir -p "$CODE_SRC/data"
+mkdir -p "$TARGET_DIR/src/data"
 
 # Copier les fichiers depuis "to_replace"
-TO_REPLACE_FILE="./scripts/resources/to_replace"
+TO_REPLACE_FILE="./to_replace"
 
 if [[ -f "$TO_REPLACE_FILE" ]]; then
   echo "Lecture du fichier to_replace et copie des fichiers..."
   
-  while IFS=" " read -r SRC RELATIVE_DEST; do
+  while IFS=" " read -r SRC DEST_PATH; do
     # Ignorer les lignes vides ou mal formatées
-    if [[ -z "$SRC" || -z "$RELATIVE_DEST" ]]; then
-      echo "Ligne vide ou mal formatée dans to_replace : '$SRC $RELATIVE_DEST'"
+    if [[ -z "$SRC" || -z "$DEST_PATH" ]]; then
+      echo "Ligne vide ou mal formatée dans to_replace : '$SRC $DEST_PATH'"
       continue
     fi
 
     SRC_PATH="$RESSOURCES/$SRC"
     
-    # Ajuster la destination pour la racine du projet
-    if [[ "$RELATIVE_DEST" == "/" ]]; then
-      DEST_PATH="$TARGET_DIR/${SRC##*/}" # Place le fichier dans TARGET_DIR
-    else
-      DEST_PATH="$TARGET_DIR$RELATIVE_DEST"
-    fi
-
     # Créer le dossier de destination s'il n'existe pas
     mkdir -p "$(dirname "$DEST_PATH")"
     
@@ -54,10 +46,8 @@ else
   exit 1
 fi
 
-# Copier le contenu de ./data dans code/src
-echo "Copie du contenu de $DATA_SRC vers $CODE_SRC/data..."
-cp -r "$DATA_SRC"/* "$CODE_SRC/data" || { echo "Erreur lors de la copie de $DATA_SRC"; exit 1; }
-
-cat $TARGET_DIR/siteConfig.json
+# Copier le contenu de ./data dans code/src/data
+echo "Copie du contenu de $DATA_SRC vers $TARGET_DIR/src/data..."
+cp -r "$DATA_SRC"/* "$TARGET_DIR/src/data" || { echo "Erreur lors de la copie de $DATA_SRC"; exit 1; }
 
 echo "Fichiers copiés avec succès."
