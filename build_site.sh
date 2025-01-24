@@ -17,7 +17,7 @@ CODE_SRC="$TARGET_DIR/src"
 mkdir -p "$CODE_SRC/data"
 
 # Copier les fichiers depuis "to_replace"
-TO_REPLACE_FILE="./to_replace"
+TO_REPLACE_FILE="./scripts/resources/to_replace"
 
 if [[ -f "$TO_REPLACE_FILE" ]]; then
   echo "Lecture du fichier to_replace et copie des fichiers..."
