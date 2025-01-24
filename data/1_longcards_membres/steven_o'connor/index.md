@@ -1,16 +1,13 @@
 ---
-uuid: 4445522d-b312-4881-8021-b22d79b4bd6d
+uuid: 841722f4-6594-4ae6-8b37-cb9a42dbcf25
 prettyName: StevenOConnor
 
 title: Steven O'Connor
 abstract: Maître de conférences en Civilisation britannique
 ---
 
+#Steven O'Connor
 ![small](oconnor_profile.jpg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -29,7 +26,7 @@ abstract: Maître de conférences en Civilisation britannique
 
 Foreign fighters and multinational armies: from civil conflicts to coalition wars, 1848-2015, European Review of History-Revue européenne d'histoire, Vol. 27, N° 1-2 (mars 2020), co-edited by Steven O'Connor and Guillaume Piketty. Routledge published a book version of this special issue in 2022 and a paperback edition in 2024.
 
-## Article dans une revue
+## Articlee dans une revue
 
  « Introduction - Foreign fighters and multinational armies: from civil conflicts to coalition wars, 1848-2015 », European Review of History-Revue européenne d'histoire, Vol. 27, N° 1-2 (mars 2020), p. 1-11 (Steven O'Connor and Guillaume Piketty).
 

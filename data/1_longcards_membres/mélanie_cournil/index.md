@@ -1,16 +1,13 @@
 ---
-uuid: aea3e987-08a9-42d6-994f-34b5cd6c24f6
+uuid: 31277562-9e22-4af5-ac67-4c3e5dee0f68
 prettyName: MélanieCournil
 
 title: Mélanie Cournil
 abstract: Maîtresse de conférences en civilisation britannique
 ---
 
+#Mélanie Cournil
 ![small](melanie_cournil.jpg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -33,7 +30,7 @@ Ouvrages pédagogiques:
 - Mélanie Cournil, Tanguy Martin-Payen & Maud Michaud. Innovations scientifiques et responsabilité. Neuilly, Atlande, Collection clefs concours : Dossier Anglais (CAPES), 2019, 256 p.
 - Mélanie Cournil, Tanguy Martin-Payen & Maud Michaud. L'idée de progrès. Neuilly, Atlande, Collection clefs concours : Dossier Anglais (CAPES), 2018, 505 p.
 
-## Article dans une revue
+## Articlee dans une revue
 
  - « Science 'subservient to profit'? William Jackson Hooker and the First Glasgow Botanic Gardens (1817-1841) », accepté, à paraître dans le British Journal of the History of Science.
 - « 'What Dangerous Men' : La pratique de la médecine sur l'île de la Dominique à la fin du XVIIIe siècle », Revue de la Société d'Études Anglo-Américaines des XVIIe et XVIIIe Siècles, N°75, « La couleur », décembre 2018, publication en ligne, [ https://journals.openedition.org/1718/1333].

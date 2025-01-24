@@ -1,16 +1,13 @@
 ---
-uuid: 042d64a5-a20e-4c70-a489-2fcf457f455e
+uuid: 099c26ae-3ff0-4b2d-952e-80b9b13893cb
 prettyName: ClaireDutriaux
 
 title: Claire Dutriaux
 abstract: Maîtresse de conférences
 ---
 
+#Claire Dutriaux
 ![small](Dutriaux_Claire.jpg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -32,7 +29,7 @@ abstract: Maîtresse de conférences
 
 5.	Claire Dutriaux, Amandine Graff, Marianne Kac-Vergne et Clémentine Tholas-Disset (Dir.), « Images et identités nationales », Les Cahiers de l'Arli n°7, 2008, 169 pages.
 
-## Article dans une revue
+## Articlee dans une revue
 
  “Southern Censorship against Hollywood in Better Films Committees and Local Censorship Boards: Film Control as a Woman's Political Weapon,” The Historical Journal of Film, Radio, and Television, Vol. 44, Issue n°2, 2024, pp. 245-260. DOI 10.1080/01439685.2023.2296204. 
 

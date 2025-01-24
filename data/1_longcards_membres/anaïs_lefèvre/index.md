@@ -1,16 +1,13 @@
 ---
-uuid: 8ebb90a3-18f2-49d9-858e-af89787ec7fb
+uuid: cf85e5b5-2eac-4739-bfb4-eae66380847c
 prettyName: AnaïsLefèvre
 
 title: Anaïs Lefèvre
 abstract: Doctorante
 ---
 
+#Anaïs Lefèvre
 ![small](img_3736.jpg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -24,7 +21,7 @@ abstract: Doctorante
 
  /
 
-## Article dans une revue
+## Articlee dans une revue
 
  “An Enormous Amount of Human Waste”: Self-esteem, Capitalism, and the US Prison, 1973-1989, Transatlantica (2020).
 

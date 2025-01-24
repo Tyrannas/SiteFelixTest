@@ -1,16 +1,13 @@
 ---
-uuid: 1b2d0966-a8d3-4b3e-bab2-07351f511226
+uuid: a7b5afd0-d7b6-4b5c-825e-c8b234a2cd7d
 prettyName: ElijahBaichoo
 
 title: Elijah Baichoo
 abstract: doctorant
 ---
 
+#Elijah Baichoo
 ![small](Baichoo_Elijah.jpg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 

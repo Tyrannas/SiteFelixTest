@@ -1,16 +1,13 @@
 ---
-uuid: b90bd2ad-ced7-441a-81db-fe6e8b388c67
+uuid: ec181c32-6e57-4a88-87d6-edc00a232958
 prettyName: AmelBoukaabache
 
 title: Amel Boukaabache
 abstract: Etudiante doctorante
 ---
 
+#Amel Boukaabache
 <img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 

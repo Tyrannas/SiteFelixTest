@@ -1,16 +1,13 @@
 ---
-uuid: b3a60228-d845-453a-8b3c-705a2ac69c14
+uuid: d11f9476-bfca-4497-92d7-aabc4a542a95
 prettyName: JeanBaptisteFleury
 
 title: Jean-Baptiste Fleury
 abstract: Professeur des universités
 ---
 
+#Jean-Baptiste Fleury
 <img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -20,7 +17,7 @@ abstract: Professeur des universités
 
  Histoire de la science économique et des sciences sociales, histoire du néolibéralisme, ecole de Chicago, public choice
 
-## Article dans une revue
+## Articlee dans une revue
 
  2022. The Political Economist: Between Truth-Seeking and Political Engagement.  Research in the History of Economic Thought and Methodology 40C, 213-232.
 2018a. “The Sound of Silence: A Review Essay on Nancy MacLean's Democracy in Chains: The Radical Right's Stealth Plan for America,” Journal of Economic Literature 56.4, pp. 1492-1537, avec Alain Marciano.

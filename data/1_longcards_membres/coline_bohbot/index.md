@@ -1,16 +1,13 @@
 ---
-uuid: e6c2e55e-5b15-434a-82af-af5ac2b944cb
+uuid: 5017155b-f340-4938-a94c-bff6d18bd150
 prettyName: ColineBOHBOT
 
 title: Coline BOHBOT
 abstract: Doctorante
 ---
 
+#Coline BOHBOT
 ![small](Bohbot_Coline.jpg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 

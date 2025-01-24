@@ -1,16 +1,13 @@
 ---
-uuid: b8dfb0ad-a23d-4d21-9d2f-87fb1a3b8ba9
+uuid: aa709d56-e0e3-48eb-8f02-dec3dcac6c1b
 prettyName: WillSLAUTER
 
 title: Will SLAUTER
 abstract: Professeur des universités
 ---
 
+#Will SLAUTER
 ![small](2_slauter_photo.jpeg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -26,7 +23,7 @@ abstract: Professeur des universités
 - Circulation and Control: Artistic Culture and Intellectual Property in the Nineteenth Century (Cambridge: Open Book Publishers, 2021): https://www.openbookpublishers.com/product/1372 ((co-edited with Marie-Stéphanie Delamaire).
 - Copyright Law and Publishing Practice in the Nineteenth-Century Press, special issue of Victorian Periodicals Review, 51, no. 4 (Winter 2018): 583-737.
 
-## Article dans une revue
+## Articlee dans une revue
 
  - “Forward-Looking Statements: News and Speculation in the Age of the American Revolution,” Journal of Modern History 81, no. 4 (Dec. 2009): 759-792.
 - “Write Up Your Dead: The Bills of Mortality and the London Plague of 1665,” Media History 17, no. 1 (Feb. 2011): 1-15.

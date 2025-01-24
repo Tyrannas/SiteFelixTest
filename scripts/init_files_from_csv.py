@@ -46,6 +46,7 @@ def generate_markdown_page_event(event_dict: dict, main_header: str, author_head
 def generate_markdown_page_member(member_dict: dict, main_header: str, position_header: str, photo_header: str):
     md_page: str = make_yaml_header_member(
         name=member_dict[main_header], position=member_dict[position_header])
+    md_page += f"#{member_dict[main_header]}\n"
     # add photo to page
     if member_dict[photo_header] != "":
         md_page += f"![small]({member_dict[photo_header]})\n\n"
@@ -53,6 +54,7 @@ def generate_markdown_page_member(member_dict: dict, main_header: str, position_
         md_page += f'<img src="{IMAGE_PATH}" width="200px" />\n\n'
     member_dict.pop(photo_header)
     for key, val in member_dict.items():
+        print(key, IGNORE_MEMBER_COLUMNS[0], key.strip() == IGNORE_MEMBER_COLUMNS[0].strip())
         if val != "" and key not in IGNORE_MEMBER_COLUMNS:
             md_page += f"## {key}\n\n {val}\n\n"
     return md_page

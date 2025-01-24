@@ -1,16 +1,13 @@
 ---
-uuid: 5e2d719d-1bbd-4da7-9e1b-40dbd17961a8
+uuid: 1bd29e4b-97ac-44f5-a05b-6700cc4a7d60
 prettyName: FranziskaHeimburger
 
 title: Franziska Heimburger
 abstract: MCF
 ---
 
+#Franziska Heimburger
 <img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 

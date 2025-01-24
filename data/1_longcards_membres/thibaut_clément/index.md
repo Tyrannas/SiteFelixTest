@@ -1,16 +1,13 @@
 ---
-uuid: fd037c7b-c10b-456d-ae7a-258d3727ed9f
+uuid: 7d311a24-c844-49ba-a703-c242b3146286
 prettyName: ThibautClément
 
 title: Thibaut Clément
 abstract: Maître de conférences
 ---
 
+#Thibaut Clément
 ![small](Clement_Thibaut.jpg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -28,7 +25,7 @@ abstract: Maître de conférences
 
 “The Cultures and Politics of Leisure in the British Isles & the United States”, Angles, French Perspectives on the Anglophone World (Avec L. Châtel), 2017
 
-## Article dans une revue
+## Articlee dans une revue
 
  “Creating the child audience: the media and the invention of modern American childhood in the late 19th and 20th centuries: Introduction” Transatlantica, American Studies Journal
 

@@ -1,16 +1,13 @@
 ---
-uuid: f524f6f5-6e64-4bc9-9b47-c4e8961b717f
+uuid: 85a901ac-7eba-4937-9086-a330bfd8f158
 prettyName: SandrineParageau
 
 title: Sandrine Parageau
 abstract: Professeure des Universités
 ---
 
+#Sandrine Parageau
 ![small](Parageau_Sandrine.jpg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -35,7 +32,7 @@ L. Cottegnies, S. Parageau et G. Venet eds., « Curiosité et vanité dans les �
 C. Crignon et S. Parageau eds., « Francis Bacon et les formes de l'expérience. Nouvelles lectures », Archives de philosophie, 84, 1, 2021 
 A. Dunan-Page et S. Parageau eds., « Émergence et transformations du puritanisme en Angleterre, 1559-1642 : comment sortir des oppositions ? », Revue Française de Civilisation Britannique, 27, 3, 2022 [https://journals.openedition.org/rfcb/9717]
 
-## Article dans une revue
+## Articlee dans une revue
 
  1.	« La satire des sciences dans Observations upon Experimental Philosophy et The Blazing World (1666) de Margaret Cavendish », Études Épistémè, 10, 2006 [DOI : 10.4000/episteme.957].
 2.	« The Function of Analogy in the Scientific Theories of Margaret Cavendish and Anne Conway », Études Épistémè, 14, 2008 [DOI : 10.4000/episteme.731].

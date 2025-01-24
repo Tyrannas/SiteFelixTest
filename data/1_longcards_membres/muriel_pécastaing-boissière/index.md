@@ -1,16 +1,13 @@
 ---
-uuid: 8da71f9b-9ffd-4581-9ad6-ff472931f83a
+uuid: e880b464-5086-4ab1-9e79-6fc33ddbb606
 prettyName: MurielPécastaingBoissière
 
 title: Muriel Pécastaing-Boissière
 abstract: MCF hors-classe en Civilisation britannique
 ---
 
+#Muriel Pécastaing-Boissière
 ![small](mpb_052024.png)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -24,7 +21,7 @@ abstract: MCF hors-classe en Civilisation britannique
 
  Annie Besant: Struggles and Quest. Londres : TPH, 2017
 
-## Article dans une revue
+## Articlee dans une revue
 
  “'Rents in the Veil of Time': Annie Besant's Auto-biographies of Giordano Bruno” in Cahiers victoriens et édouardiens 98, Automne  2023
 

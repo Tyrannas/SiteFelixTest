@@ -1,16 +1,13 @@
 ---
-uuid: ac7f2145-23c7-4de1-94f9-a55f7467508e
+uuid: 72cef9ac-77bf-4662-96de-d5decb7814bf
 prettyName: SandrineGengouxLauzat
 
 title: Sandrine Gengoux-Lauzat
 abstract: Doctorante
 ---
 
+#Sandrine Gengoux-Lauzat
 ![small](Gengoux_Sandrine.jpeg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 

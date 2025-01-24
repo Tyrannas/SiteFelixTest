@@ -1,16 +1,13 @@
 ---
-uuid: be86e7d7-594e-42d3-a433-096c9dc90934
+uuid: 932b8657-d8a4-4773-9fd1-3c21a79c075a
 prettyName: MarieSellier
 
 title: Marie Sellier
 abstract: Doctorante
 ---
 
+#Marie Sellier
 <img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -20,7 +17,7 @@ abstract: Doctorante
 
  L'illustration des lynchages aux Etats-Unis (XXe-XIXe siècles)
 
-## Article dans une revue
+## Articlee dans une revue
 
  “La photographie contemporaine africaine : les archives au service d'une
 nouvelle identité africaine”, revue Ethiopiques, n°110

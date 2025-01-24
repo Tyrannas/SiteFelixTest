@@ -1,16 +1,13 @@
 ---
-uuid: cbc64f0d-3cf9-4436-a831-6192f81478e7
+uuid: c1b18a3b-c518-420c-a3cb-94a30202687a
 prettyName: VictoriaRobert
 
 title: Victoria Robert
 abstract: Doctorante associée- ILCEA4 UGA
 ---
 
+#Victoria Robert
 ![small]( Robert_Victoria.jpeg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 

@@ -1,16 +1,13 @@
 ---
-uuid: ce7e8c05-13d9-4be4-9b0f-b9c1bc5a2808
+uuid: 3fa829dc-bc4c-4500-bfc7-0bc2fb98a475
 prettyName: LouiseDalingwater
 
 title: Louise Dalingwater
 abstract: Professeure
 ---
 
+#Louise Dalingwater
 <img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -46,7 +43,7 @@ Direction d'ouvrage/numéros
 14) (En cours) Digitalisation of Health Care, International Journal of Health, Wellness and Society, mars 2025.
 15) (En cours) New Trade Linkages, Old Trade Disconnects: Drivers, governance and effects of integrated trade policies in a fragmented world economy, (avec Jean-Baptiste Velut, Richard Ouellet et Gabriel Siles Brügges, dir. Papers in Political Economy, Université de Québec à Montréal, Canada, 2025.
 
-## Article dans une revue
+## Articlee dans une revue
 
  Articles dans revues internationales à comité de lecture
 

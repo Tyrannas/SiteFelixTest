@@ -1,16 +1,13 @@
 ---
-uuid: 89995aa1-10e3-49b5-bef8-370483702212
+uuid: c2389b41-aa8c-4b71-b13b-928d3fc60d92
 prettyName: ArnaudPage
 
 title: Arnaud Page
 abstract: Maître de Conférences HDR
 ---
 
+#Arnaud Page
 ![small](Page_Arnaud.jpg)
-
-## ﻿Nom d'utilisateur
-
- PAGEA
 
 ## Contact
 
@@ -27,7 +24,7 @@ Histoire de l'alimentation
  “The fertiliser trade”, numéro spécial de Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook, vol. 62, n°1, 2021 (avec Laurent Herment et Christine Strottman).
 “A Long Awakening? Environmental Concerns in the United Kingdom since the ineteenth Century”, numéro spécial de la Revue Française de Civilisation Britannique, vol. 23, n°3, 2018.
 
-## Article dans une revue
+## Articlee dans une revue
 
  “Pure White Bread? Bleached Flour, Contestations, and Regulations, 1900-1950”, Technology and Culture, vol. 64, n° 1, 2023, pp. 149-171.
 “'The True Food of the Brain': Protéines et constructions raciales en Angleterre, 1840-1910”, Cahiers Victoriens et Edouardiens, n° 97, 2023.

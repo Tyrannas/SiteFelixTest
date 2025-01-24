@@ -1,16 +1,13 @@
 ---
-uuid: 51e57e34-6279-4632-9292-f99aeaf2e419
+uuid: a0260613-0e64-4257-ba8f-8d818d66c0e2
 prettyName: CarolinGörgen
 
 title: Carolin Görgen
 abstract: Maîtresse de conférence en civilisation américaine
 ---
 
+#Carolin Görgen
 ![small](Gorgen_Carolin.jpg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -32,7 +29,7 @@ Research topics:
 Carolin Görgen & Camille Rouquet, editors, “Camera Memoria: Photographic Histories from the Margins,” special journal issue Miranda: Journal of the English-speaking World (2022)
 https://journals.openedition.org/miranda/44163
 
-## Article dans une revue
+## Articlee dans une revue
 
  Selection of articles:
 

@@ -1,16 +1,13 @@
 ---
-uuid: 76756dd5-96b8-49eb-86e2-caaa65897517
+uuid: 30c929ef-cbcd-4085-aaf1-39ab194372e2
 prettyName: OlivierFrayssé
 
 title: Olivier Frayssé
 abstract: Professeur émérite
 ---
 
+#Olivier Frayssé
 <img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -47,7 +44,7 @@ Le Mouvement noir aux États-Unis. Problèmes Politiques et Sociaux  n°399, Par
 Les Groupes de pression aux États-Unis. Problèmes Politiques et Sociaux n°371, Paris, La Documentation Française, 1979.
 Le président Carter face au Congrès. Problèmes Politiques et Sociaux n°350, Paris, La Documentation Française, 1978.
 
-## Article dans une revue
+## Articlee dans une revue
 
  « L'histoire de la prévision du futur du travail est, pour l'essentiel, l'histoire d'experts qui se sont trompés de manière spectaculaire… », Grand entretien avec Ursula Huws, Les Mondes du Travail n°31, septembre 2024.
 « Le futur du travail : critiques et enjeux, Introduction », avec Marie-Anne Dujarier, Les Mondes du Travail n°31, septembre 2024.

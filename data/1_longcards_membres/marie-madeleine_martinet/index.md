@@ -1,16 +1,13 @@
 ---
-uuid: 2594e99e-a14c-47e2-b5f1-9d9d395a1ff1
+uuid: 45379933-23af-4825-91b7-1afa033451a6
 prettyName: MarieMadeleineMARTINET
 
 title: Marie-Madeleine MARTINET
 abstract: professeur émérite
 ---
 
+#Marie-Madeleine MARTINET
 ![small](Martinet_Marie-Madeleine.jpg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -27,7 +24,7 @@ abstract: professeur émérite
 •	Histoire du paysage et du paysage urbain.
 •	Littérature de voyage.
 
-## Article dans une revue
+## Articlee dans une revue
 
  (depuis 2020)
 

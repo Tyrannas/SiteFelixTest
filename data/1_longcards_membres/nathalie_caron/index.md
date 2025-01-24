@@ -1,16 +1,13 @@
 ---
-uuid: 17e93d2a-112c-4299-83b3-9488438e88cd
+uuid: 80084036-a19a-4242-a9f8-7faa1a877a34
 prettyName: NathalieCaron
 
 title: Nathalie Caron
 abstract: Professeure des universités
 ---
 
+#Nathalie Caron
 <img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -30,7 +27,7 @@ Universitaires de Rennes, coll. « Sciences du religieux », 2015.
 - Avec Richard Anker, dir. « Transferts du religieux/Religious Transfers ». Revue française d'études américaines 141 (4e trimestre 2014).
 - Thomas Paine contre l'imposture des prêtres. Paris, L'Harmattan, 1999.
 
-## Article dans une revue
+## Articlee dans une revue
 
  - Avec Sophie Vallas. « Historienne des États-Unis : Élise Marienstras, du syndrome de
 l'imposture au désir de changer le monde ». e-Rea [En ligne], 21.1 | 2023.

@@ -1,16 +1,13 @@
 ---
-uuid: a88bae66-c028-405e-b836-694ef51cab9f
+uuid: b61c0bc0-8c82-4d7c-b0bd-f8d23ce05688
 prettyName: MarionMarchet
 
 title: Marion Marchet
 abstract: Membre associée
 ---
 
+#Marion Marchet
 ![small](photo_id_2_1.jpg)
-
-## ﻿Nom d'utilisateur
-
- Anonymous
 
 ## Contact
 
@@ -20,7 +17,7 @@ abstract: Membre associée
 
  Histoire nord-américaine / histoire africaine-américaine / histoire urbaine / XXe et XXIe siècles
 
-## Article dans une revue
+## Articlee dans une revue
 
  « Le pari universaliste avant Black Lives Matter : candidatures et représentation africaines- américaines dans la banlieue blanche du Midwest (1981-2008) », dossier « Personnel politique local : trajectoires et pratiques de représentation », revue Politique américaine, printemps 2023.
 
