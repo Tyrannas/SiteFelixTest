@@ -1,12 +1,12 @@
 ---
-uuid: 8b233374-6b03-4ecf-bed4-4a96f3218e61
+uuid: c2e9c7cc-fae9-4f65-b8c8-914f6a51391f
 prettyName: ClaraVinh
 
 title: Clara Vinh
 abstract: Doctorante
 ---
 
-#Clara Vinh
+# Clara Vinh
 ![small](158417.jpg)
 
 ## Thèmes de recherche

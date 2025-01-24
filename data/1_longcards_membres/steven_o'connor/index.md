@@ -1,12 +1,12 @@
 ---
-uuid: 841722f4-6594-4ae6-8b37-cb9a42dbcf25
+uuid: 7b4e2290-78ec-480c-acac-1b93d1b685db
 prettyName: StevenOConnor
 
 title: Steven O'Connor
 abstract: Maître de conférences en Civilisation britannique
 ---
 
-#Steven O'Connor
+# Steven O'Connor
 ![small](oconnor_profile.jpg)
 
 ## Contact

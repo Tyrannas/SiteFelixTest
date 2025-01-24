@@ -1,12 +1,12 @@
 ---
-uuid: adb06360-66ed-4d8b-aaec-dad2199aac4c
+uuid: fa19a50a-f121-4fef-88d1-58dd73243a93
 prettyName: BarbaraFontyn
 
 title: Barbara Fontyn
 abstract: Doctorante
 ---
 
-#Barbara Fontyn
+# Barbara Fontyn
 <img src="./avatar.webp" width="200px" />
 
 ## Thèmes de recherche

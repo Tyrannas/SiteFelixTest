@@ -1,12 +1,12 @@
 ---
-uuid: 3fa829dc-bc4c-4500-bfc7-0bc2fb98a475
+uuid: 845c46c0-f290-4737-9dfc-5e7c00232908
 prettyName: LouiseDalingwater
 
 title: Louise Dalingwater
 abstract: Professeure
 ---
 
-#Louise Dalingwater
+# Louise Dalingwater
 <img src="./avatar.webp" width="200px" />
 
 ## Contact

@@ -1,12 +1,12 @@
 ---
-uuid: 45379933-23af-4825-91b7-1afa033451a6
+uuid: 10de2544-7d57-4d8b-a607-74f81d188a30
 prettyName: MarieMadeleineMARTINET
 
 title: Marie-Madeleine MARTINET
 abstract: professeur émérite
 ---
 
-#Marie-Madeleine MARTINET
+# Marie-Madeleine MARTINET
 ![small](Martinet_Marie-Madeleine.jpg)
 
 ## Contact

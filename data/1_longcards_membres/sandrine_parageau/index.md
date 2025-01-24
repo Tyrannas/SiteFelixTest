@@ -1,12 +1,12 @@
 ---
-uuid: 85a901ac-7eba-4937-9086-a330bfd8f158
+uuid: 2d9e1c01-b943-4fc6-a771-f5871f619b2c
 prettyName: SandrineParageau
 
 title: Sandrine Parageau
 abstract: Professeure des Universités
 ---
 
-#Sandrine Parageau
+# Sandrine Parageau
 ![small](Parageau_Sandrine.jpg)
 
 ## Contact

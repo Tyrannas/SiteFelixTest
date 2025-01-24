@@ -1,12 +1,12 @@
 ---
-uuid: d11f9476-bfca-4497-92d7-aabc4a542a95
+uuid: 1c0165a0-24e1-4234-a2b6-667366d70f9f
 prettyName: JeanBaptisteFleury
 
 title: Jean-Baptiste Fleury
 abstract: Professeur des universités
 ---
 
-#Jean-Baptiste Fleury
+# Jean-Baptiste Fleury
 <img src="./avatar.webp" width="200px" />
 
 ## Contact

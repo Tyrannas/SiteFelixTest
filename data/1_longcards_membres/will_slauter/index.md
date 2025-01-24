@@ -1,12 +1,12 @@
 ---
-uuid: aa709d56-e0e3-48eb-8f02-dec3dcac6c1b
+uuid: a322a7ca-4f9c-4d2f-8c07-5bbe93a6d545
 prettyName: WillSLAUTER
 
 title: Will SLAUTER
 abstract: Professeur des universités
 ---
 
-#Will SLAUTER
+# Will SLAUTER
 ![small](2_slauter_photo.jpeg)
 
 ## Contact

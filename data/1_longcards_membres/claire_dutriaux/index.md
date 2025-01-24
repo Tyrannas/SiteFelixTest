@@ -1,12 +1,12 @@
 ---
-uuid: 099c26ae-3ff0-4b2d-952e-80b9b13893cb
+uuid: 94472f61-c5a9-4ee9-86f4-307f42657186
 prettyName: ClaireDutriaux
 
 title: Claire Dutriaux
 abstract: Maîtresse de conférences
 ---
 
-#Claire Dutriaux
+# Claire Dutriaux
 ![small](Dutriaux_Claire.jpg)
 
 ## Contact

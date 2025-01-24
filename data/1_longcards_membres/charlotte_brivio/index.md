@@ -1,12 +1,12 @@
 ---
-uuid: 75cd9829-4b85-4943-9f72-02bc9158d598
+uuid: aebd8c4f-9036-44c9-8130-5ccc13d2b074
 prettyName: CharlotteBrivio
 
 title: Charlotte Brivio
 abstract: Doctorante, chargée d'enseignement
 ---
 
-#Charlotte Brivio
+# Charlotte Brivio
 ![small](Brivio_Charlotte.jpeg)
 
 ## Contact

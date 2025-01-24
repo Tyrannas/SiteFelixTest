@@ -1,12 +1,12 @@
 ---
-uuid: 2833465e-c341-4b60-aed9-f0353000bc98
+uuid: d7f487a1-e619-4c2c-9c79-b4e82b1d2dc9
 prettyName: EléonoreObis
 
 title: Eléonore Obis
 abstract: MCF UFR LEA
 ---
 
-#Eléonore Obis
+# Eléonore Obis
 ![small](Obis_Eleonore.jpg)
 
 ## Contact

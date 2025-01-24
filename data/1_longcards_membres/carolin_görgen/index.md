@@ -1,12 +1,12 @@
 ---
-uuid: a0260613-0e64-4257-ba8f-8d818d66c0e2
+uuid: ba48c721-4731-4ef1-9358-6ff2e647c57c
 prettyName: CarolinGörgen
 
 title: Carolin Görgen
 abstract: Maîtresse de conférence en civilisation américaine
 ---
 
-#Carolin Görgen
+# Carolin Görgen
 ![small](Gorgen_Carolin.jpg)
 
 ## Contact

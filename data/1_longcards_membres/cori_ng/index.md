@@ -1,12 +1,12 @@
 ---
-uuid: 72f7ec50-db08-402e-8060-ec15de9a700a
+uuid: 5bd7b652-746b-493a-9ff1-e70ae7047a90
 prettyName: CoriNg
 
 title: Cori Ng
 abstract: ATER
 ---
 
-#Cori Ng
+# Cori Ng
 ![small](Ng_Cori.jpg)
 
 ## Contact
