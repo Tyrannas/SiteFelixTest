@@ -45,5 +45,6 @@ fi
 echo "Copie du contenu de $DATA_SRC vers $CODE_SRC/data..."
 cp -r "$DATA_SRC"/* "$CODE_SRC/data" || { echo "Erreur lors de la copie de $DATA_SRC"; exit 1; }
 
-cat $CODE_SRC/style/custom.css
+cat $TARGET_DIR/siteConfig.json
+
 echo "Fichiers copiés avec succès."
