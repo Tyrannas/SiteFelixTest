@@ -1,30 +1,63 @@
 import * as React from 'react'
 
-export const Introduction = () => { return (
-    <div className="landing-block text">
-        <h2>Template de site académique de la Fac de Lettres</h2>
-        <p>
-            Ce site est un modèle pour les sites de laboratoire de <a href="https://lettres.sorbonne-universite.fr/">Faculté des Lettres de Sorbonne Université</a>.
-                Il a pour vocation d'être un exemple modifiable afin de mettre en place aisément des sites web permettant de publier billets de blogs et mettre en avant des événements liés à l'activité d'un laboratoire.
-        </p>
-        <p>
-            Fonctionnalités principales
-            <ul>
-                <li> Publier du contenu à partir de simples fichiers markdown </li>
-                <li> Mise en avant d'événements </li>
-                <li> Gestion facilitée de membres </li>
-            </ul>
-        </p>
-        <p>
-            Ce template a été créé par les ingénieurs de <a href="ceres.sorbonne-universite.fr">l'unité de service du CERES</a>.
-        </p>
-    </div>
-)}
+export const Introduction = () => {
+    return (
+        <div className="landing-block text">
+            <h2><center>HDEA</center></h2>
+            <p>
+                L’unité Histoire et dynamique des espaces anglophones (HDEA, UR 4086) est une unité de Sorbonne Université qui rassemble principalement des membres de la 11e section du CNU, travaillant sur les questions politiques, sociales, économiques et culturelles des pays anglophones.
+            </p>
+            <p>Pour 2025-2030, ses travaux sont structurés en trois axes principaux:
+                <ol>
+                    <li><strong>Savoirs et cultures</strong></li>
+                    <ul>
+                        <li>
+                            Circulations, échanges et transferts culturels.
+                        </li>
+                        <li>
+                            Religion(s) et spiritualités.
+                        </li>
+                        <li>
+                            Médias, images et cultures populaires.
+                        </li>
+                    </ul>
+                    <li><strong>Sociétés et gouvernements</strong></li>
+                    <ul>
+                        <li>
+                            Dynamiques économiques et sociales.
+                        </li>
+                        <li>
+                            Politiques publiques – santé , famille, éducation.
+                        </li>
+                        <li>
+                            Droit et relations internationales.
+                        </li>
+
+                    </ul>
+                    <li><strong>Nature, Espaces et Sociétés</strong></li>
+                    <ul>
+                        <li>
+                            Études environnementales.
+                        </li>
+                        <li>
+                            Études californiennes.
+                        </li>
+                        <li>
+                            Territoires urbains.
+                        </li>
+
+                    </ul>
+
+                </ol>
+            </p>
+        </div>
+    )
+}
 
 export const Footer = () => (
     <footer id="footer">
         <div className="footer-block">
-            <p>LABO - Site statique pour le laboratoire</p>
+            <p>HDEA - Histoire et dynamique des espaces anglophones</p>
             <p>Faculté des Lettres de Sorbonne Université</p>
             <a href='https://lettres.sorbonne-universite.fr/'>
                 <svg className="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 492.93 198.34">
