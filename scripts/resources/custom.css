@@ -9,3 +9,7 @@
     --text-num: 30;
     --bg-num: 255;
 }
+
+#article-header h1{
+    color: white
+}
