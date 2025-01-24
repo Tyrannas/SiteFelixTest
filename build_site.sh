@@ -22,7 +22,7 @@ TO_REPLACE_FILE="./scripts/resources/to_replace"
 if [[ -f "$TO_REPLACE_FILE" ]]; then
   echo "Lecture du fichier to_replace et copie des fichiers..."
   
-  while IFS=" " read -r SRC RELATIVE_DEST; do
+  while IFS=" " read -r SRC DEST_PATH; do
     # Ignorer les lignes vides ou mal formatées
     if [[ -z "$SRC" || -z "$DEST_PATH" ]]; then
       echo "Ligne vide ou mal formatée dans to_replace : '$SRC $DEST_PATH'"
