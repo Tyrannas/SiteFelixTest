@@ -17,3 +17,8 @@
 .landing-block{
     max-width: 33rem !important;
 }
+
+#landing-logo{
+    max-height:200px;
+    top: 0;
+}
